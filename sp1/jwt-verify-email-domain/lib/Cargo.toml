@@ -1,0 +1,11 @@
+[package]
+name = "json-lib"
+version = { workspace = true }
+edition = { workspace = true }
+publish = false
+
+[dependencies]
+serde = { workspace = true }
+anyhow = { workspace = true }
+serde_json = "1.0.138"
+base64 = "0.22.1"

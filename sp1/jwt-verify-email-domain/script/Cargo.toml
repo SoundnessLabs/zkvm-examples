@@ -1,0 +1,16 @@
+[package]
+name = "json-script"
+version = { workspace = true }
+edition = { workspace = true }
+publish = false
+
+[dependencies]
+sp1-sdk = { workspace = true }
+
+lib = { path = "../lib", package = "json-lib" }
+log = "0.4.25"
+env_logger = "0.11.6"
+
+
+[build-dependencies]
+sp1-build = { workspace = true }
