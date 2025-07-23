@@ -1,6 +1,6 @@
 # zkVM Examples
 
-A collection of community-built zkVM/DSL examples featuring [SP1](https://github.com/succinctlabs/sp1), [Ligetron](https://github.com/ligeroinc/ligero-prover), and [Risc0](https://github.com/risc0/risc0).
+A collection of community-built zkVM/DSL examples featuring [SP1](https://github.com/succinctlabs/sp1), [Ligetron](https://github.com/ligeroinc/ligero-prover), [Risc0](https://github.com/risc0/risc0) and [Noir](https://github.com/noir-lang/noir).
 
 ## Structure
 
